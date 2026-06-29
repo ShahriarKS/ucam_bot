@@ -23,6 +23,9 @@ To run this project, you need to have the following installed:
 ```bash
 pip install selenium
 
+## Application Preview
+![UCAM Monitor Dashboard]([URL_OF_YOUR_IMAGE](https://github.com/your-username/ucam-academic-monitor/blob/main/bot img.png))
+
 ```
 
 ## ⚙️ Installation & Setup
