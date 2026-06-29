@@ -1,4 +1,3 @@
-````markdown
 # 🎓 UcamMon
 
 **UcamMon** is a Python-based desktop application that automatically monitors the **United International University (UIU) UCAM Portal** for newly published grades. It runs quietly in the background and instantly notifies you whenever a new grade is detected.
@@ -185,5 +184,3 @@ Feel free to:
 If you find this project useful, consider giving it a ⭐ on GitHub.
 
 It helps others discover the project and motivates future development.
-````
-
