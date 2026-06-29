@@ -1,29 +1,27 @@
-
-```markdown
 # UIU UCAM Academic Monitor
 
 An automated Python-based desktop application designed for students of United International University (UIU). This tool monitors the [UCAM portal](https://ucam.uiu.ac.bd/) in the background to track academic grades and notifies the user immediately if any new updates are detected.
 
 ## 🚀 Features
-
 * **Automated Tracking:** Periodically checks the UCAM portal for grade updates every 30 minutes.
 * **Real-time Alerts:** Automatically brings the application to the foreground and alerts you when a new grade is posted.
-* **Privacy First:** Your credentials (Student ID and Password) are stored locally in a JSON file on your computer—never sent to any external server.
+* **Privacy First:** Your credentials are stored locally in a JSON file on your computer—never sent to any external server.
 * **User-Friendly Interface:** Built with `tkinter` for a clean, intuitive dashboard with features like a password show/hide toggle.
-* **Lightweight:** Optimized to consume minimal system resources while running in the background.
+* **Lightweight:** Optimized to consume minimal system resources.
+
+## Application Preview
+![UCAM Monitor Dashboard](bot%20img.png)
 
 ## 🛠 Prerequisites
+To run this project, you need:
+* Python 3.8+
+* Google Chrome Browser
+* Selenium: `pip install selenium`
 
-To run this project, you need to have the following installed:
-
-* **Python 3.8+**
-* **Google Chrome Browser**
-* **Selenium:** Install the required library using pip:
-
-```bash
-pip install selenium
-
-```
+## ⚙️ Installation & Setup
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/ShahriarKS/ucam_bot.git](https://github.com/ShahriarKS/ucam_bot.git)
 
 ## ⚙️ Installation & Setup
 
