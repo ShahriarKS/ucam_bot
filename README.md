@@ -149,12 +149,14 @@ Your privacy is important.
 
 ```
 UcamMon/
-│
-├── ucammon.py
-├── ucammon_config.json
-├── assets/
-├── README.md
-└── requirements.txt
+├── .gitignore          # Must include: build/, dist/, ucammon_config.json, *.spec
+├── README.md           # Your project documentation
+├── requirements.txt    # List of dependencies
+├── ucammon.py          # Main application script
+├── assets/             # Folder for images/icons
+└── grades_history/     # Folder for historical data
+
+
 ```
 
 ---
