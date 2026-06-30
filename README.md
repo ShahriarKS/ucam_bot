@@ -64,7 +64,7 @@ pip install selenium
 ### Clone the repository
 
 ```bash
-git clone https://github.com/ShahriarKS/ucammon.git
+git clone https://github.com/ShahriarKS/UcamMon.git
 ```
 
 ### Go to the project directory
@@ -86,6 +86,10 @@ python ucammon.py
 ```
 
 ---
+## Sample
+<p align="center">
+  <img src="bot%20img.png" width="700">
+</p>
 
 ## 🖥 Usage
 
@@ -140,10 +144,6 @@ Your privacy is important.
 - **Never share your `ucammon_config.json` file.**
 
 ---
-## Sample
-<p align="center">
-  <img src="bot%20img.png" width="700">
-</p>
 
 ## 📂 Project Structure
 
